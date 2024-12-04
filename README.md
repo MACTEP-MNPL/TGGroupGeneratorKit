@@ -28,7 +28,6 @@ COMMAND - Command to send after creation
 ## Requirements
 - Node.js 16+
 - Telegram Account
-- Bot Token
 
 ## Security
 Never share your API credentials and keep your session data secure.

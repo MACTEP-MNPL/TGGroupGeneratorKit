@@ -37,5 +37,5 @@ Never share your API credentials and keep your session data secure.
 Created by @MACTEP_MNPL on Telegram
 
 ## License
-ISC License
+MIT License
 
